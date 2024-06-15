@@ -1,0 +1,17 @@
+/* Estilos para el apartado */
+.mi-apartado {
+  background-color: #dfd9d9c7; /* Color de fondo para el body */
+  padding: 180px;
+  margin: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(26, 25, 25, 0.1);
+}
+
+.mi-apartado h1 {
+  color: #000000;
+}
+
+.mi-apartado p {
+  color: #000000;
+  font-style: italic;
+}

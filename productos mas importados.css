@@ -1,0 +1,27 @@
+/* Estilos para el apartado */
+.mi-apartado {
+    background-image: url(RESOURCES/ppt_animation_332.webp);
+    padding: 100px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.mi-apartado h1 {
+    color: #f1c158;
+}
+
+.mi-apartado ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.mi-apartado li {
+    margin-bottom: 5px;
+}
+
+.mi-apartado li:before {
+    content: "•";
+    margin-right: 5px;
+    color: hsl(39, 80%, 53%); /* Cambia el color del punto según tu preferencia */
+}

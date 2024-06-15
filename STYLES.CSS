@@ -1,0 +1,36 @@
+/* Estilos para el encabezado */
+/* Estilos para el encabezado */
+header {
+    background-image: url(RESOURCES/ezgif.com-resize-15.gif);
+    padding: 20;
+    padding: 40px;
+    text-align: center;
+  }
+
+header h1 
+
+{
+    margin: 10;
+    background-color: rgba(211, 184, 11, 0.705);
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(184, 160, 25, 0.473);
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    color: #080804ef;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+nav ul li a:hover {
+    background-color: #ebe8e8;
+}
